@@ -4,14 +4,19 @@ Thanks for attending my talk, I hope it was helpful.
 
 Important links for the talks:
 
-## JSWorld Conference 2021
+## [JSWorld Conference 2021](https://frontenddeveloperlove.com/)
 - [Slides](https://docs.google.com/presentation/d/1NHWJEJp4AwICmLUBNd2_VctVMVIaHLPooF6BtIGIY3M/edit?usp=sharing)
 
-## ConFoo 2021
+## [ConFoo 2021](https://confoo.ca/en/yul2021/sessions)
 - [Slides and links](https://github.com/anuk79/tech-talks-links/blob/main/confoo2021.md)
 
-## Scottish Summit 2021
+## [Scottish Summit 2021](https://scottishsummit.com/)
 - [Slides](https://github.com/anuk79/tech-talks-links/tree/main/ScottishSummit2021)
+
+
+## [VTTA Tech Conference 2021](https://vttatechconference.hubilo.com/)
+- [Slides](https://docs.google.com/presentation/d/1rt9JHpvj0OV432zznsRTOORen-3Z4TDggSJJGXs0_Kc/edit?usp=sharing)
+- [WebAIM accessibility checklist](https://webaim.org/standards/wcag/checklist)
 
 
 ## Common links:
