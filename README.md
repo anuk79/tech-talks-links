@@ -19,7 +19,7 @@ Important links for the talks:
 - [WebAIM accessibility checklist](https://webaim.org/standards/wcag/checklist)
 
 ## [Nebraska Digital Accessibility Meetup, 20 May 2021](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128539/)
-- Slides will be uploaded on the event day
+- [Slides](t.ly/K0rp)
 
 
 ## Common links:
