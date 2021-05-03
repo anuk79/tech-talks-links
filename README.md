@@ -18,8 +18,14 @@ Important links for the talks:
 - [Slides](https://docs.google.com/presentation/d/1rt9JHpvj0OV432zznsRTOORen-3Z4TDggSJJGXs0_Kc/edit?usp=sharing)
 - [WebAIM accessibility checklist](https://webaim.org/standards/wcag/checklist)
 
-## [Nebraska Digital Accessibility Meetup, 20 May 2021](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128539/)
+## [Nebraska Digital Accessibility Meetup, 20 April 2021](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128539/)
 - [Slides](t.ly/K0rp)
+
+## [Testing React Code - MDC, 4 May 2021](https://mndevconf.com/)
+- Slides coming soon
+- [Why should I unit test my code?](https://anuradhak.medium.com/why-should-i-unit-test-my-code-989c378e8ebc)
+- [How should I unit test my code?](https://anuradhak.medium.com/how-should-i-unit-test-my-code-part-2-examples-6579436c71db)
+- [What should I unit test in my code?](https://anuradhak.medium.com/what-should-i-unit-test-in-my-code-7f0a9f24dee5)
 
 
 ## Common links:
