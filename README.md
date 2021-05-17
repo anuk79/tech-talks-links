@@ -21,6 +21,8 @@ Important links for the talks:
 ## [Nebraska Digital Accessibility Meetup, 20 April 2021](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128539/)
 - [Slides](t.ly/K0rp)
 
+## [C# Corner virtual meet, 17 May 2021](https://www.c-sharpcorner.com/events/c-sharp-corner-global-monthly-virtual-meet-may-2021)
+- [Slides](https://docs.google.com/presentation/d/1O6vokWvtWnWcWkIjYX1PjzTDuAi4Aqb2DiLTKri2SGc/edit?usp=sharing)
 
 
 
