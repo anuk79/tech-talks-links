@@ -31,6 +31,6 @@ Important links for the talks:
 
 
 ## Common links:
-- Feedbacks help in improvements. I would be grateful if you could help me improve myself by [filling the feedback form](https://docs.google.com/forms/d/e/1FAIpQLSewS9PFzg7ZjX9-dkg8gxZxKYo_PhVnXZszAy8wIO4bMmJLdQ/viewform)
+- Feedbacks help in improvements. I would be grateful if you could help me improve myself by [filling the feedback form](https://forms.gle/dT2eu3xvX4251TXZ9)
 - Checkout my website [explore accessibility](https://explore-a11y.netlify.app/) which I used for all the demos
 - Connect with me on [linkedin](https://www.linkedin.com/in/anuradha15/) and [twitter](https://twitter.com/miracle_404)
