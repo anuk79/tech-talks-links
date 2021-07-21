@@ -4,7 +4,8 @@ Thanks for attending my talk, I hope it was helpful.
 
 Important links for the talks:
 
-## [Nebraska Digital Accessibility Meetup, 20 April 2021](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128559/)
+## [Nebraska Digital Accessibility Meetup, 20 July 2021](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128559/)
+- Topic - No, React does not break accessibility
 - [Slides](https://docs.google.com/presentation/d/1O8n-1K-HqWmlqT3oAQvlFEdC3-H1nlqid0Q01gH-ags/edit?usp=sharing)
 
 ## [C# Corner virtual meet, 17 May 2021](https://www.c-sharpcorner.com/events/c-sharp-corner-global-monthly-virtual-meet-may-2021)
