@@ -4,6 +4,11 @@ Thanks for attending my talk, I hope it was helpful.
 
 Important links for the talks:
 
+## [Google I/O Extended UK & Ireland, 29 July 2021](https://gdg.community.dev/events/details/google-gdg-belfast-presents-io-extended-uk-ireland-july-27-29/)
+- Topic - Accessible Information and Data Visualization
+- [Slides](https://docs.google.com/presentation/d/1TAobHeYCrsIawFhc6BESj_WauMJXvqMw8qNzJDfXEpI/edit?usp=sharing)
+
+
 ## [Google I/O Extended UK & Ireland, 28 July 2021](https://gdg.community.dev/events/details/google-gdg-belfast-presents-io-extended-uk-ireland-july-27-29/)
 - Topic - Decoding accessibility through audit
 - [Slides](https://docs.google.com/presentation/d/1rkIp2KpibwzdcylSfN7H5vh-D_ZkASZ0i3QuDROcE9Q/edit?usp=sharing)
