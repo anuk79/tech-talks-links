@@ -4,6 +4,10 @@ Thanks for attending my talk, I hope it was helpful.
 
 Important links for the talks:
 
+## [Mumbai Women Coders meetup, 31 July 2021](https://www.meetup.com/mumbai-women-coders/events/279750999/)
+- Topic - Making the web accessible: The responsibility no one taught us about
+- [Slides](https://docs.google.com/presentation/d/1jPEJIdM3gNq4iJ91bKbAwylwlgc63QTgj4gfXxBmD9g/edit?usp=sharing)
+
 ## [Google I/O Extended UK & Ireland, 29 July 2021](https://gdg.community.dev/events/details/google-gdg-belfast-presents-io-extended-uk-ireland-july-27-29/)
 - Topic - Accessible Information and Data Visualization
 - [Slides](https://docs.google.com/presentation/d/1TAobHeYCrsIawFhc6BESj_WauMJXvqMw8qNzJDfXEpI/edit?usp=sharing)
