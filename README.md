@@ -4,6 +4,10 @@ Thanks for attending my talk, I hope it was helpful.
 
 Important links for the talks:
 
+## [Hello A11y, 21 August 2021](https://hasgeek.com/helloa11y/helloa11y-august-meet-2021/)
+- Topic - Creating accessible React applications
+- [Slides](https://docs.google.com/presentation/d/17CTD3GqtejHh15JHnoK6huV0VSs8Y-Eg2tcyOi0PxbU/edit?usp=sharing)
+
 ## [Mumbai Women Coders meetup, 31 July 2021](https://www.meetup.com/mumbai-women-coders/events/279750999/)
 - Topic - Making the web accessible: The responsibility no one taught us about
 - [Slides](https://docs.google.com/presentation/d/1jPEJIdM3gNq4iJ91bKbAwylwlgc63QTgj4gfXxBmD9g/edit?usp=sharing)
