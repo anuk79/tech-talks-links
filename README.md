@@ -4,6 +4,10 @@ Thanks for attending my talk, I hope it was helpful.
 
 Important links for the talks:
 
+## [enterjs, 30 September 2021](https://enterjs.de/programm.php#pgpart2)
+- Topic - Creating accessible Vue Components
+- [Slides](https://docs.google.com/presentation/d/1RcGCFwtKr3UYvP07nrGBdFft0139BcohFKaq2vs9k6w/edit?usp=sharing)
+
 ## [Hello A11y, 21 August 2021](https://hasgeek.com/helloa11y/helloa11y-august-meet-2021/)
 - Topic - Creating accessible React applications
 - [Slides](https://docs.google.com/presentation/d/17CTD3GqtejHh15JHnoK6huV0VSs8Y-Eg2tcyOi0PxbU/edit?usp=sharing)
